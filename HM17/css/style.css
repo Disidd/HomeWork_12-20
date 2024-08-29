@@ -26,7 +26,7 @@ html, body {
   flex-direction: column;
   justify-content: space-between;
   margin: 3px 6px; }
-  .card--person .person {
+  .card--person {
     height: 50px; }
   .card__info {
     display: flex;
