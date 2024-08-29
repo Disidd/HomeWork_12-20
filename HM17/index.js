@@ -24,7 +24,7 @@ for (i = 0; i < values.length; i++) {
                 </div>
             </div>`);
         }
-            cards.push(cardInfo);   
+        cards.push(cardInfo);   
     }
 }
 document.write(`<div class='wrapper'>${cards.join('')}</div>`);
